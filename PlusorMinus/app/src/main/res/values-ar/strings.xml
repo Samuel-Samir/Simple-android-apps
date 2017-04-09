@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">برنامج  القهوة</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="Cream">اضافة كريمة </string>
+    <string name="Chocolate">اضافه  شوكلاته</string>
+    <string name="QUALITY">الكمية </string>
+    <string name="ORDER">الطلب </string>
+    <string name="t">الاضافات  </string>
+
+</resources>
